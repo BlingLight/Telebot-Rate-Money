@@ -6,7 +6,7 @@ from pycoingecko import CoinGeckoAPI
 
 
 api = CoinGeckoAPI()
-bot = telebot.TeleBot('6185836382:AAHCHt2N632Hkd2h3IImnOWGu1rhIAVFo88')
+bot = telebot.TeleBot('TOKEN_API')
 base_currency = 'usd'
 base_currency1 = 'rub'
 
